@@ -110,5 +110,21 @@
     "unique_hash": "",
     "ip": "",
     "mail": ""
+  },
+  {
+    "type": "MAIL",
+    "code": "9D4AB8EF55B988C18817B9E9A3809DC34B83D41C9FE97FA4952669D7675D8121",
+    "start": "2026-06-26 00:00:00",
+    "end": "2027-06-25 23:59:59",
+    "blocked": false,
+    "block_until": "",
+    "user": "",
+    "computer": "",
+    "cpu_id": "",
+    "ram_id": "",
+    "disk_id": "",
+    "unique_hash": "",
+    "ip": "",
+    "mail": "FBE0670B29F5BDA669FDF54C38211B26EEAA578C728C932BCC9D81392616CC3D"
   }
 ]
