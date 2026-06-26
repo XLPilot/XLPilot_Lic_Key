@@ -1,18 +1,19 @@
 [
   {
-    "type": "USER",
+    "type": "MAIL",
     "code": "FFA38F491A61467387F2067B2AC3EA1DB5DA3440E6DF7F208AF100345FFE6541",
     "start": "2026-04-06 00:00:00",
     "end": "2100-01-01 23:59:59",
     "blocked": false,
     "block_until": "",
-    "user": "5722CBB28B188487256ED17207E55052278B01C6184E9D80CDACC5FD4AF1635D",
+    "user": "",
     "computer": "",
     "cpu_id": "",
     "ram_id": "",
     "disk_id": "",
     "unique_hash": "",
-    "ip": ""
+    "ip": "",
+    "mail": ""
   },
   {
     "type": "USPC",
@@ -27,7 +28,8 @@
     "ram_id": "E523C9109AB975171540A343C20EF140BA8BF86C272DF1AE83F1AA54292ED940",
     "disk_id": "A5A7943C34BBC4B4AB18D12278C7249400EFBAC4DB44658E296CE2347CFDE2D0",
     "unique_hash": "",
-    "ip": ""
+    "ip": "",
+    "mail": ""
   },
   {
     "type": "USER",
@@ -36,13 +38,14 @@
     "end": "2100-01-01 23:59:59",
     "blocked": false,
     "block_until": "",
-    "user": "C17958456A174F239C39A3EC7DA184E496F82D6734EA42162E23B1DAE557B18C",
+    "user": "",
     "computer": "",
     "cpu_id": "",
     "ram_id": "",
     "disk_id": "",
     "unique_hash": "",
-    "ip": ""
+    "ip": "",
+    "mail": ""
   },
   {
     "type": "USPC",
@@ -57,7 +60,8 @@
     "ram_id": "123279A50224DED54D485BA97DDAD6F6A5A09E46BEE79D714050974B32B72C42",
     "disk_id": "B5984B145A222AD6C5543F9A2903129C5014F5F90E4F43B71147CF648B77394F",
     "unique_hash": "",
-    "ip": ""
+    "ip": "",
+    "mail": ""
   },
   {
     "type": "USPC",
@@ -72,7 +76,8 @@
     "ram_id": "1FC698627C148DA06229903FEA24BE46127EF4EC3597B6A89E29A254A44F3DFF",
     "disk_id": "58DD168A0DF594EB01801A35D9CEF53F30BB6E2743491DF307FBD9D78FC76BC0",
     "unique_hash": "",
-    "ip": ""
+    "ip": "",
+    "mail": ""
   },
   {
     "type": "USPC",
@@ -87,7 +92,8 @@
     "ram_id": "35FF11DF6AE4F99B796F4BF58377D60DB20D163CC98AB319FB16ADBF9A22D4B3",
     "disk_id": "88027455A6357D3B4BBE7E34C73731D0B4845F387F65EE7B7A9599FFCFADCEE0",
     "unique_hash": "",
-    "ip": ""
+    "ip": "",
+    "mail": ""
   },
   {
     "type": "USPC",
@@ -102,6 +108,7 @@
     "ram_id": "BC705EEFEF55E83F38178953CA59C693B7A0AC05B28155B5E3FE2A8A14A72C9E",
     "disk_id": "1767BD982EF8DED66308ADCECD45AD5BB7534163B268B5F4153600FF821992EF",
     "unique_hash": "",
-    "ip": ""
+    "ip": "",
+    "mail": ""
   }
 ]
